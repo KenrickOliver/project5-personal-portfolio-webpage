@@ -1,0 +1,31 @@
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+body {
+    line-height: 1.5rem;
+}
+
+#welcome-section {
+    padding-top: 0px;
+    margin-top: 0px;
+    display: block; /*block element */
+    height: 100vh; /*This bit makes it 100 ov the viewport */
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+footer {
+    background-color: cornsilk;
+}
+
+@media only screen and (max-width: 600px) {
+    #nav-bar {
+      font-size: 15px;
+    }
+  }
