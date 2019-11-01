@@ -1,4 +1,4 @@
-# FCC Responsive Web Design Project 2 - Build a Personal Portfolio Webpage
+# FCC Responsive Web Design Project 5 - Build a Personal Portfolio Webpage
 
 This is Project Number 5 for FCC (freeCodeCamp) wich asked us to build a simple Survey Form using HTML5 and CSS3 given specific stories. This is Project 5 of 5 that needed to be completed in order to get the Responsive Web Design Certificate.
 
